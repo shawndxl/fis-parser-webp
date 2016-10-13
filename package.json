@@ -1,0 +1,27 @@
+{
+  "homepage": "https://github.com/shawndxl/fis-parser-webp",
+  "author": {
+    "url": "https://github.com/shawndxl",
+    "name": "dongxl"
+  },
+  "keywords": [
+    "fis",
+    "webp"
+  ],
+  "directories": {},
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shawndxl/fis-parser-webp.git"
+  },
+  "scripts": {},
+  "name": "fis-parser-webp",
+  "dependencies": {
+    "webp-bin": "0.1.4"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "description": "A parser for fis to convert png or jpg file to webp.",
+  "version": "0.0.1"
+}
